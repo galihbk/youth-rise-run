@@ -68,7 +68,7 @@ export default function EventInfo() {
             icon={Calendar}
             title="Waktu & Tanggal"
             content="Minggu, 07 Juni 2026"
-            sub="Start 19:00 WIB"
+            sub="Start 05:00 WIB"
           />
           <InfoCard
             icon={Clock}
