@@ -65,10 +65,15 @@ export default function Hero() {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.8 }}
         >
+          {/* SEO Heading */}
+          <h1 style={{ position: 'absolute', width: '1px', height: '1px', padding: 0, margin: '-1px', overflow: 'hidden', clip: 'rect(0, 0, 0, 0)', border: 0 }}>
+            Youth Rise Run Purbalingga 2026 - Run For Always Young
+          </h1>
+
           <div style={{ marginBottom: '2rem' }}>
             <img 
               src="/logo-3.png" 
-              alt="Youth Rise Run Logo" 
+              alt="Youth Rise Run Purbalingga 2026 Official Logo" 
               style={{ 
                 maxWidth: 'min(500px, 90vw)', 
                 height: 'auto',
